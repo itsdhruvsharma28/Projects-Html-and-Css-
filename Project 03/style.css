@@ -1,0 +1,125 @@
+.navbar-container{
+
+    display:flex;
+    justify-content: space-around;
+}
+
+.logo{
+    margin-top:30px;
+    margin-left:30px;
+}
+.list{
+    list-style: none;
+    display:flex;
+  margin-right:15px;
+
+}
+.list-item.home {
+    text-decoration: underline;
+    color:black;
+}
+.list-item{
+    color:rgb(69, 66, 66);
+    margin:30px 50px 0px 20px;
+    font-size:28px;
+}
+.button-group{
+    display:flex;
+    width:180px;
+    height:40px;
+    margin: 40px 50px 0px 0px;
+}   
+
+.nav-button{
+  height: 37px;
+  width:170px;
+   font-size:30px;  
+   border-radius: 10px;
+}
+.search-icon{
+    height:0px;
+    width:30px;
+    margin-top:2px;
+    margin-right:6px;
+}
+.hero-container{
+    display:flex;
+}
+
+.hero-container1{
+    margin-left:80px;
+}
+.heroimage{
+   margin-top:20px;
+  position:absolute;
+}
+.square{
+    height:250px;
+    margin:350px 0px 0px 240px;
+ }
+ .hero-container2{
+    margin-left:100px;
+    margin-top:20px;
+}
+.globe{
+    height:60px;
+    position:absolute;
+    margin-left:80px;
+}
+.star{
+    margin-left:630px;
+    margin-top:70px;
+    height:50px;
+}
+.hero-heading{
+    font-size: 70px;
+    margin-top: 0px;
+}
+.hero-description{
+    margin-top:-30px;
+    margin-left:20px;
+    font-size:20px;
+    /* border:solid 1px black; */
+    height: 50px;
+    width:660px;
+    color:rgb(151, 146, 146);
+    text-align: center;
+}
+.form{
+    margin-left:150px;
+    
+
+}
+.email-address{
+       
+       height:35px;
+       margin:10px;
+       width:200px;
+       font-size:24px;
+       border-radius: 10px;
+}
+.Join-now{
+    margin-top:50px;
+    height:35px;
+    width:160px;
+    font-size:24px;
+    border-radius: 10px;
+    color:white;
+    background-color: rgb(41, 38, 38);
+}
+ .star2{
+    margin-top:-100px;
+    height:50px;
+    height:40px;
+} 
+
+.contact-heading{
+    text-align: center;
+    margin-top: 120px;
+    font-size:22px;
+    color:rgb(151, 146, 146);
+}
+.icons{
+    text-align: center;
+    margin-top:-30px;
+}

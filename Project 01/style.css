@@ -1,0 +1,54 @@
+.navbar-container{
+     display:flex;
+}
+.logo{
+    margin-top:50px;
+    margin-left:100px;  
+}
+.list{
+    list-style-type: none;
+    display:flex;
+}
+.list-item{
+    font-size:25px;
+   margin:40px 10px 10px 20px;
+   color:rgb(120, 118, 118);
+}
+.home{
+    color:black;
+    text-decoration: underline;
+}
+.nav-button{
+    margin:50px 0px 0px 400px;
+    height:45px;
+    width:170px;
+    font-size:18px;
+    border-radius: 10px;
+    background-color: rgb(99, 67, 193);
+    color:white;
+    border:0px;
+
+}
+.banner-container{
+    display:flex;
+}
+
+.heading-text{
+    font-size:80px;
+    margin:140px 0px 0px 100px;
+}
+#crush{
+    color:rgb(99, 67, 193);
+}
+.description{
+    font-size:23px;
+    margin:30px 0px 0px 100px;
+    color:rgb(174, 168, 168);
+}
+
+.nav-button.btn{
+    margin:30px 0px 0px 200px;
+    height:60px;
+    width:200px;
+}
+
